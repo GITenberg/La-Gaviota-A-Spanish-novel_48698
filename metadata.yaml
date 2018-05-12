@@ -1,9 +1,13 @@
 _repo: La-Gaviota-A-Spanish-novel_48698
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Starr, J. Leander
     gutenberg_agent_id: '44930'
     url: http://www.gutenberg.org/2009/agents/44930
+covers:
+- cover_type: archival
+  image_path: 48698-h/images/cover.jpg
 creator:
   author:
     agent_name: Caballero, Fernán
@@ -17,6 +21,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7378
     wikipedia: http://en.wikipedia.org/wiki/Fern%C3%A1n_Caballero
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48698#La-Gaviota-A-Spanish-novel
 gutenberg_issued: '2015-04-13'
 gutenberg_type: Text
 identifiers:
